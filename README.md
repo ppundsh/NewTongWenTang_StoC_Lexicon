@@ -1,0 +1,2 @@
+# NewTongWenTang_StoC_Lexicon
+新同文堂簡轉繁自訂詞彙
